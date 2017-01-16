@@ -1,0 +1,24 @@
+{
+  "name": "alopex-analysis",
+  "version": "1.0.0",
+  "homepage": "http://ui.alopex.io/",
+  "license": "http://ui.alopex.io/",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-header": "^1.8.8",
+    "gulp-jshint": "^2.0.4",
+    "gulp-livereload": "^3.8.1",
+    "gulp-logger": "0.0.2",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-refresh": "^1.1.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-strip-debug": "^1.1.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.3.11",
+    "gulp-webserver": "^0.9.1",
+    "jshint": "^2.9.4",
+    "selenium-webdriver": "~2.42.1"
+  }
+}
